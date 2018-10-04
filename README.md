@@ -1,2 +1,4 @@
 # orbis-training-project-docker
-Repositorio para ´pruebas Docker. Capacitación ORBIS
+Repositorio para pruebas Docker. 
+## Capacitación ORBIS
+
